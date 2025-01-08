@@ -1,4 +1,4 @@
-# EACP | Extendable AprilTag Camera Positioning.
+# ExAPTagLoc | Extendable AprilTag Locating.
 
 > This project aims to provide a simple foundation for team creating an AprilTag locating service, which is able to send data to a roboRIO or other devices by using `pupil-apriltags`, `python-opencv`, and `pynetworktables`.
 
