@@ -1,0 +1,26 @@
+{
+    "camera_index": 0,
+    "camera_params": {
+        "fx": 1000,
+        "fy": 1000,
+        "cx": 640,
+        "cy": 480
+    },
+    "dist_coeffs": [0.1, -0.25, 0, 0, 0.32],
+    "aprilTag_detector": {
+        "families": "tag36h11",
+        "nthreads": 4,
+        "quad_decimate": 1.0,
+        "quad_sigma": 0.0,
+        "refine_edges": 1,
+        "decode_sharpening": 0.25,
+        "debug": 0
+    },
+    "networkTable": {
+        "server_ip": "10.75.89.2",
+        "table_name": "vision",
+        "result_key": "results",
+        "max_attempts": 10
+    },
+    "aprilTag_map_path": "path/to/aprilTag_map.json"
+}
