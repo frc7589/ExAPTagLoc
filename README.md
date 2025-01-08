@@ -15,9 +15,9 @@
 
 ## Hardware Suggestion
 
-- CPU: At least Qual-Core
+- CPU: Qual-Core or more
 - Memory: 4 GB or more
-- OpenCV-compatible cameraa
+- OpenCV-compatible camera
 
 ## Installion
 
